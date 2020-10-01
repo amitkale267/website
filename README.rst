@@ -16,7 +16,16 @@ Requirements
 ------------
 
 Website needs Python 2.7, additional dependencies are listed in `requirements.txt`.
-
+Django>=1.11,<2.0
+python-dateutil
+feedparser
+django-markupfield
+docutils
+Markdown
+pytz
+beautifulsoup4
+django_compressor!=2.0
+django-appconf<=1.0.3
 
 Security announcements and news
 -------------------------------
